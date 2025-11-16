@@ -7,13 +7,13 @@
 ### 一键下载并运行
 
 ```bash
-wget -q -O- https://raw.githubusercontent.com/fcrre26/docker-ubuntu/main/docker-ubuntu-manager.sh | sh
+wget -q -O- https://raw.githubusercontent.com/fcrre26/docker-ubuntu-manager/refs/heads/main/docker-ubuntu-manager.sh | sh
 ```
 
 ### 手动安装
 
 ```bash
-wget https://raw.githubusercontent.com/fcrre26/docker-ubuntu/main/docker-ubuntu-manager.sh
+wget https://raw.githubusercontent.com/fcrre26/docker-ubuntu-manager/refs/heads/main/docker-ubuntu-manager.sh
 chmod +x docker-ubuntu-manager.sh
 ./docker-ubuntu-manager.sh
 ```

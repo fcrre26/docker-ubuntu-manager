@@ -14,6 +14,7 @@ wget -q -O- https://raw.githubusercontent.com/fcrre26/docker-ubuntu-manager/refs
 
 ```bash
 wget https://raw.githubusercontent.com/fcrre26/docker-ubuntu-manager/refs/heads/main/docker-ubuntu-manager.sh
+wget https://raw.githubusercontent.com/fcrre26/docker-ubuntu-manager/refs/heads/main/ubuntu-ssh.dockerfile
 chmod +x docker-ubuntu-manager.sh
 ./docker-ubuntu-manager.sh
 ```
